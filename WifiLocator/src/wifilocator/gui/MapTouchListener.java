@@ -17,7 +17,7 @@ import android.widget.ImageView;
 
 /**
  * Listener for Touch Event on the map
- * @author Eric
+ * @author Amit Jain
  * @version 0
  */
 public class MapTouchListener implements OnTouchListener{
@@ -117,7 +117,7 @@ public class MapTouchListener implements OnTouchListener{
 	
 	/**
 	 * Get the mid Point between 2 points in a multi-Touch motion Event
-	 * @author Eric Wang
+	 * @author Amit Jain
 	 * @param point result middle point is stored here
 	 * @param event MotionEvent
 	 */
